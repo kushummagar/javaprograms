@@ -1,7 +1,7 @@
-public class  {  
-public static void main(String[] args) {  
+public class P {  
+public                        - void main(String[] args) {  
       
-    int number=20;  
+    int number=20;   
       
     switch(number){  
       
@@ -15,4 +15,4 @@ public static void main(String[] args) {
     default:System.out.println("Not in 10, 20 or 30");  
     }  
 }  
-}  
+}

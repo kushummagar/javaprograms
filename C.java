@@ -5,7 +5,8 @@ public class C{
         int c=3;
         int avg;
         avg=a+b+c/3;{
-            System,out,println("avg")
+            System.out.println("avg")
         }
     }
-}   m
+}     
+                      
